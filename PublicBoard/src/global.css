@@ -1,0 +1,7 @@
+.heading {
+    @apply w-[700px] mx-auto font-poppins text-black font-bold text-[32px] leading-[160%] mb-5
+}
+
+.paragraph {
+    @apply w-[700px] mx-auto font-poppins font-normal text-black text-xl leading-[170%] mb-6
+}

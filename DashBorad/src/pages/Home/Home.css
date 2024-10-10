@@ -1,0 +1,30 @@
+.menu-container { 
+    height: 100vh;
+    background: linear-gradient(135deg, #f0f0f0 0%, #e0e0e0 100%);
+  }
+  
+  .premium-menu  {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #333;
+    padding: 12px 24px;
+    transition: background 0.3s ease, color 0.3s ease;
+    background-color: #f7f7f7 !important;
+    color: #1a73e8 !important;
+  }
+  
+  
+  .premium-menu .ant-menu-item-selected {
+    background-color: #e0f7fa !important;
+    color: #1976d2 !important;
+    border-radius: 8px;
+  }
+  
+  
+  .anticon {
+    font-size: 18px;
+    color: #1976d2;
+    margin-right: 8px;
+  }
+  
